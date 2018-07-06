@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.3.1",
+    "moment": "^2.22.2",
     "socket.io": "^2.1.1"
   }
 }
